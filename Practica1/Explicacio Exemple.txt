@@ -1,0 +1,10 @@
+Carreguem a Var1 el valor 1
+Carreguem a Var2[0] el valor 56
+Carreguem a Var2[4] el valor 5
+Assignem ax el valor 1
+Assignem a cx el valor 2
+
+Entrem en un bucle que va multiplicant cx per ax guardant-se a l' acumulador
+fins que arribem al numero 5 en aquest cas.
+
+En definitiva el programa fa el factorial en ordre ascendent
